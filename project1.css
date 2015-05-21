@@ -9,3 +9,20 @@
 .img-responsive{
 	margin: 0 auto;
 }
+
+
+
+.title{
+	text-align: center;
+	font-weight: 500;
+	font-size: 40px;
+}
+
+h1{
+	font-family: 'Vollkorn' , serif;
+}
+
+p{
+	font-family: 'Kurale', serif;
+	font-size:20px;
+}
