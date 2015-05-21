@@ -26,3 +26,11 @@ p{
 	font-family: 'Kurale', serif;
 	font-size:20px;
 }
+
+.center{
+	text-align: center;
+}
+
+hr{
+	color:red;
+}
