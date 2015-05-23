@@ -6,7 +6,11 @@
 	color: black;
 }
 
-
+.navbar-nav{
+	
+	text-align: center;
+	
+}
 .tagline{
 	height:40px;
 	padding-top: 30px;
